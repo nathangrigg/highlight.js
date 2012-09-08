@@ -683,3 +683,12 @@ Mizar ("mizar"):
 
   keyword          keyword
   comment          comment
+
+Gnuplot ("gnuplot"):
+
+  keyword          keyword
+  math             math function (sin cos)
+  params           plot options
+  number           number
+  string           string
+  comment          comment
